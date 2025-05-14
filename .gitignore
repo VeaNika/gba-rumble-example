@@ -1,4 +1,5 @@
 *.DS_Store
 *.sav
 *.elf
-
+/build
+build/gba-rumble-example.elf.map
